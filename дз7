@@ -1,0 +1,10 @@
+1 задание название блока пополнение счета
+#pay-section > div > div > div.col-12.col-xl-8
+2 задание название блока платежной системы
+#pay-section > div > div > div.col-12.col-xl-8 > section > div > div.pay__partners > ul
+3 задание название и проверка работоспасобности блока (Подробнее о сервисе)
+#pay-section > div > div > div.col-12.col-xl-8 > section > div > a
+блок работает 
+4 задание проверить работу способности блока (продолжить)
+название блока: #pay-connection > button
+кнопка работает
