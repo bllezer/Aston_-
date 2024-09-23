@@ -1,0 +1,3 @@
+<configuration>
+  <resultsDirectory>target/allure-results</resultsDirectory>
+</configuration>
